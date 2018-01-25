@@ -5,6 +5,7 @@ view:
   js:
     js/media_entity_browser.view.js: {}
   dependencies:
+    - core/backbone
     - core/jquery
     - core/drupal
 
